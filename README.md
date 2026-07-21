@@ -1,61 +1,51 @@
-![erica banner, web developer](https://github.com/ERlCA/ERlCA/blob/main/banner.jpg)
+# Hi there , I'm Eric
 
-## Hi there , I'm Eric
-
-### I'm a Web Developer  \(Still learning\)
+## I'm a Web Developer  \(Still learning\)
   
 - 👨🏻‍💻 I spend most of my time sitting in front of my computer  🤣
 - My hobbies :  
-    - 🎮 Playing Video Games \([Mobile Legends Bang Bang]\)  
-    - 🎧 Listening to Music  
-    - 🎬 Watching Movies  
+  - 🎮 Playing Video Games  
+  - 🎧 Listening to Music  
+  - 🎬 Watching Movies  
+  - 📖 Reading
 
 ---
-
-<br/>
 
 ## Tools
-### Front 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target=_blank><img alt="html5 logo" title="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target=_blank><img alt="css3 logo" title="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target=_blank ><img alt="" title="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+
+### Front
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Back
-<a href="https://www.php.net/" target=_blank ><img alt="php logo" title="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
 
-### Others 
-<a href="https://inkscape.org/" target=_blank><img alt="Inkscape logo" title="Inkscape" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" /></a> <a href="#"><img alt="Github logo" title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Others
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)  
+![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-<br/>
 
 ## Stats  
-<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=ERlCA&show_icons=true&theme=great-gatsby&hide=stars,contribs" />
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERlCA&show_icons=true&theme=great-gatsby&exclude_repo=github-readme-stats,ERlCA.github.io&layout=compact&hide_progress=true" />
-</p>   
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ERlCA&rank_icon=github&custom_title=My%20Adventure%2C%20so%20far&show_icons=true&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=ERlCA&rank_icon=github&custom_title=My%20Adventure%2C%20so%20far&show_icons=true&include_all_commits=true&theme=monokai)
+[![GitHub Stats : Most used languages](https://github-stats-extended.vercel.app/api/top-langs?username=ERlCA&layout=donut&langs_count=5&hide_values=true&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=ERlCA&layout=donut&langs_count=5&hide_values=true&theme=monokai)
 
 ---
 
-<br/>
+## Connect with me
 
-## Connect with me   
-<a href="https://www.linkedin.com/in/ericah-f" target=_blank><img alt="linkedIn logo" title="linkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fanomeric@gmail.com"><img alt="gmail logo" title="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   
+[![LinkedIn logo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fanomeric@gmail.com)
 
 ---
 
-<br/>
-<br/>
-
-\(Computer image designed by [freepik]\)  
-
-<br/>
-<br/>
-
-[Mobile Legends Bang Bang]: https://www.mobilelegends.com
-[linkedin]: https://www.linkedin.com/in/ericah-f
-[freepik]: http://www.freepik.com
-
-<!-- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) -->
+[LinkedIn]: <https://www.linkedin.com/in/erica-dev/ "LinkedIn profile">
